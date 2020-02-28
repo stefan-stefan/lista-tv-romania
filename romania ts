@@ -1,213 +1,168 @@
-#EXTM3U
-#EXTINF:0,===>   Romania <====
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/55377.ts
-#EXTINF:0,RO: VIASAT NATURE
-#EXTVLCOPT:network-caching=1000
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32771.ts
-#EXTINF:0,RO: VIASAT EXPLORER
-#EXTVLCOPT:network-caching=1000
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32772.ts
-#EXTINF:0,RO: TVR 2
-#EXTVLCOPT:network-caching=1000
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32774.ts
-#EXTINF:0,RO: TVR 1
-#EXTVLCOPT:network-caching=1000
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32775.ts
-#EXTINF:0,RO: TV1000
-#EXTVLCOPT:network-caching=1000
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32776.ts
-#EXTINF:0,RO: TV 1000
-#EXTVLCOPT:network-caching=1000
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32778.ts
-#EXTINF:0,RO: TNT
-#EXTVLCOPT:network-caching=1000
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32780.ts
-#EXTINF:0,RO: TLC
-#EXTVLCOPT:network-caching=1000
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32848.ts
-#EXTINF:0,RO: TeleMoldovaPlus
-#EXTVLCOPT:network-caching=1000
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32781.ts
-#EXTINF:0,RO: Taraf Tv
-#EXTVLCOPT:network-caching=1000
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32782.ts
-#EXTINF:0,RO: Sport.ro
-#EXTVLCOPT:network-caching=1000
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32783.ts
-#EXTINF:0,RO: Romania Tv
-#EXTVLCOPT:network-caching=1000
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32784.ts
-#EXTINF:0,RO: Realtaea TV
-#EXTVLCOPT:network-caching=1000
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32785.ts
-#EXTINF:0,RO: Realitatea Tv
-#EXTVLCOPT:network-caching=1000
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32786.ts
-#EXTINF:0,RO: ProTV
-#EXTVLCOPT:network-caching=1000
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32787.ts
-#EXTINF:0,RO: Prima Love
-#EXTVLCOPT:network-caching=1000
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32789.ts
-#EXTINF:0,RO: Prima
-#EXTVLCOPT:network-caching=1000
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32791.ts
-#EXTINF:0,RO: Paramount Channel
-#EXTVLCOPT:network-caching=1000
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32792.ts
-#EXTINF:0,RO: Neptun
-#EXTVLCOPT:network-caching=1000
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32794.ts
-#EXTINF:0,RO: NATIONAL Geo wild
-#EXTVLCOPT:network-caching=1000
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32796.ts
-#EXTINF:0,RO: NatGeographic
-#EXTVLCOPT:network-caching=1000
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32797.ts
-#EXTINF:0,RO: Nat Geo Wild
-#EXTVLCOPT:network-caching=1000
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32795.ts
-#EXTINF:0,RO: U TV
-#EXTVLCOPT:network-caching=1000
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/58609.ts
-#EXTINF:0,RO: Pro Cinema
-#EXTVLCOPT:network-caching=1000
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/58610.ts
-#EXTINF:0,RO: prima cool
-#EXTVLCOPT:network-caching=1000
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/58611.ts
-#EXTINF:0,RO: DIGI 24
-#EXTVLCOPT:network-caching=1000
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/58613.ts
-#EXTINF:0,RO: MUSIC CHANNEL
-#EXTVLCOPT:network-caching=1000
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32798.ts
-#EXTINF:0,RO: Music Channe hu
-#EXTVLCOPT:network-caching=1000
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32799.ts
-#EXTINF:0,RO: Minimax
-#EXTVLCOPT:network-caching=1000
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32800.ts
-#EXTINF:0,RO: MegaMax-HD
-#EXTVLCOPT:network-caching=1000
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32839.ts
-#EXTINF:0,RO: Megamax
-#EXTVLCOPT:network-caching=1000
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32801.ts
-#EXTINF:0,RO: Look Plus
-#EXTVLCOPT:network-caching=1000
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32802.ts
-#EXTINF:0,RO: Kiss
-#EXTVLCOPT:network-caching=1000
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32803.ts
-#EXTINF:0,RO: Kanal D
-#EXTVLCOPT:network-caching=1000
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32804.ts
-#EXTINF:0,RO: Hit Music Channel
-#EXTVLCOPT:network-caching=1000
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32805.ts
-#EXTINF:0,RO: History
-#EXTVLCOPT:network-caching=1000
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32806.ts
-#EXTINF:0,RO: HBO Romania
-#EXTVLCOPT:network-caching=1000
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32808.ts
-#EXTINF:0,RO: HBO 3
-#EXTVLCOPT:network-caching=1000
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32809.ts
-#EXTINF:0,RO: HBO 2
-#EXTVLCOPT:network-caching=1000
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32810.ts
-#EXTINF:0,RO: Happy
-#EXTVLCOPT:network-caching=1000
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32811.ts
-#EXTINF:0,RO: FISHING & HUNTING
-#EXTVLCOPT:network-caching=1000
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32812.ts
-#EXTINF:0,RO: EUROSPORT 2
-#EXTVLCOPT:network-caching=1000
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32813.ts
-#EXTINF:0,RO: EUROSPORT 1
-#EXTVLCOPT:network-caching=1000
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32814.ts
-#EXTINF:0,RO: Etno Tv
-#EXTVLCOPT:network-caching=1000
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32815.ts
-#EXTINF:0,RO: DISNEY JUNIOR
-#EXTVLCOPT:network-caching=1000
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32816.ts
-#EXTINF:0,RO: Digi24
-#EXTVLCOPT:network-caching=1000
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32817.ts
-#EXTINF:0,RO: DIGI WORLD
-#EXTVLCOPT:network-caching=1000
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32818.ts
-#EXTINF:0,RO: Digi Sport 4
-#EXTVLCOPT:network-caching=1000
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32819.ts
-#EXTINF:0,RO: Digi Sport 3
-#EXTVLCOPT:network-caching=1000
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32820.ts
-#EXTINF:0,RO: Digi Sport 2
-#EXTVLCOPT:network-caching=1000
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32821.ts
-#EXTINF:0,RO: Digi Sport 1
-#EXTVLCOPT:network-caching=1000
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32822.ts
-#EXTINF:0,RO: Digi Life
-#EXTVLCOPT:network-caching=1000
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32823.ts
-#EXTINF:0,RO: DIGI FILM
-#EXTVLCOPT:network-caching=1000
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32824.ts
-#EXTINF:0,RO: DIGI ANIMAL WORLD
-#EXTVLCOPT:network-caching=1000
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32825.ts
-#EXTINF:0,RO: DIGI 24 CRAIOVA
-#EXTVLCOPT:network-caching=1000
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32826.ts
-#EXTINF:0,RO: CINEMAX 2
-#EXTVLCOPT:network-caching=1000
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32828.ts
-#EXTINF:0,RO: B1 TV
-#EXTVLCOPT:network-caching=1000
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32829.ts
-#EXTINF:0,RO: AXN WHITE
-#EXTVLCOPT:network-caching=1000
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32831.ts
-#EXTINF:0,RO: AXN BLACK
-#EXTVLCOPT:network-caching=1000
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32832.ts
-#EXTINF:0,RO: AXN
-#EXTVLCOPT:network-caching=1000
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32833.ts
-#EXTINF:0,RO: ANTENA STARS
-#EXTVLCOPT:network-caching=1000
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32834.ts
-#EXTINF:0,RO: Antena 3 HD
-#EXTVLCOPT:network-caching=1000
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32847.ts
-#EXTINF:0,RO: ANTENA 3
-#EXTVLCOPT:network-caching=1000
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32835.ts
-#EXTINF:0,RO: Antena 1 HD
-#EXTVLCOPT:network-caching=1000
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32846.ts
-#EXTINF:0,RO: Antena 1
-#EXTVLCOPT:network-caching=1000
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32836.ts
-#EXTINF:0,RO: Alfa Omega
-#EXTVLCOPT:network-caching=1000
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32845.ts
-#EXTINF:0,RO: AGRO TV
-#EXTVLCOPT:network-caching=1000
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32837.ts
-#EXTINF:0,RO: Acasa Tv HD
-#EXTVLCOPT:network-caching=1000
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32844.ts
-#EXTINF:0,RO: ACASA TV
-#EXTVLCOPT:network-caching=1000
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32838.ts
-#EXTINF:0,RO:  DOLCE SPORT 1
-#EXTVLCOPT:network-caching=1000
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/32840.ts
+#EXTINF:-1,--- Romania ---
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/3377
+#EXTINF:-1,RO: Telekom Sport 1 FHD
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/70655
+#EXTINF:-1,RO: Telekom Sport 2 FHD
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/70654
+#EXTINF:-1,RO: Telekom Sport 3 FHD
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/70652
+#EXTINF:-1,RO: Digi Sport 1 FHD
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/111895
+#EXTINF:-1,RO: Digi Sport 2 FHD
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/111894
+#EXTINF:-1,RO: Digi Sport 3 FHD
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/111893
+#EXTINF:-1,RO: Look Sport TV FHD
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/8679
+#EXTINF:-1,RO: Look Plus FHD
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/18348
+#EXTINF:-1,RO: Look Plus HD
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/9801
+#EXTINF:-1,RO: Eurosport 2 FHD
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/70603
+#EXTINF:-1,RO: Agro Tv
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/18371
+#EXTINF:-1,RO: AMC
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/16589
+#EXTINF:-1,RO: Antena 1
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/8699
+#EXTINF:-1,RO: Antena 1 FHD
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/70635
+#EXTINF:-1,RO: Antena Stars
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/16590
+#EXTINF:-1,RO: Antena Stars FHD
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/70632
+#EXTINF:-1,RO: AXN
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/38529
+#EXTINF:-1,RO: AXN Romania
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/18369
+#EXTINF:-1,RO: AXN White
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/18368
+#EXTINF:-1,RO: Bollywood TV
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/41610
+#EXTINF:-1,RO: Cartoon Network
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/18365
+#EXTINF:-1,RO: Cinemax 2 FHD
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/70624
+#EXTINF:-1,RO: Cinemax 2 HD
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/18363
+#EXTINF:-1,RO: Digi 24 HD
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/8694
+#EXTINF:-1,RO: Digi Animal World FHD
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/8693
+#EXTINF:-1,RO: DIGI LIFE
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/6721
+#EXTINF:-1,RO: Digi Sport 4 FHD
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/70648
+#EXTINF:-1,RO: Digi World
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/18361
+#EXTINF:-1,RO: Discovery
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/70618
+#EXTINF:-1,RO: Discovery Science FHD
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/70617
+#EXTINF:-1,RO: E! Entertainment FHD
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/70607
+#EXTINF:-1,RO: Film Cafe
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/16591
+#EXTINF:-1,RO: FILM Now FHD
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/38563
+#EXTINF:-1,RO: FilmBox Premium
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/46915
+#EXTINF:-1,RO: HBO 1
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/8684
+#EXTINF:-1,RO: HBO 2
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/8685
+#EXTINF:-1,RO: HBO 3
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/8686
+#EXTINF:-1,RO: HBO Romania
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/18351
+#EXTINF:-1,RO: INTERMEDIA SUCEAVA
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/46950
+#EXTINF:-1,RO: Kanal D
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/18349
+#EXTINF:-1,RO: Kanal D FHD
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/70584
+#EXTINF:-1,RO: KISS TV
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/8697
+#EXTINF:-1,RO: Megamax
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/8677
+#EXTINF:-1,RO: Minimax
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/8676
+#EXTINF:-1,RO: Music Channel
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/8675
+#EXTINF:-1,RO: Nat Geo
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/70573
+#EXTINF:-1,RO: Nat Geo Wild
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/18345
+#EXTINF:-1,RO: National Geographic FHD
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/70570
+#EXTINF:-1,RO: Nickelodeon
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/8670
+#EXTINF:-1,RO: Paramount Channel
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/16594
+#EXTINF:-1,RO: Prima TV
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/8669
+#EXTINF:-1,RO: PRO CINEMA
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/9238
+#EXTINF:-1,RO: Pro.TV FHD
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/37450
+#EXTINF:-1,RO: Pro X
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/37447
+#EXTINF:-1,RO: PRO.2 HD
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/18372
+#EXTINF:-1,RO: PRO.GOLD
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/34566
+#EXTINF:-1,RO: PRO2
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/46946
+#EXTINF:-1,RO: ProCinema
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/18339
+#EXTINF:-1,RO: ProTV
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/18338
+#EXTINF:-1,RO: PTV FHD
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/46945
+#EXTINF:-1,RO: Realitatea Tv
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/8665
+#EXTINF:-1,RO: Romania Tv
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/18337
+#EXTINF:-1,RO: TLC
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/38535
+#EXTINF:-1,RO: Travel Channel FHD
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/70565
+#EXTINF:-1,RO: TV 1000
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/8662
+#EXTINF:-1,RO: TV Paprika
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/38534
+#EXTINF:-1,RO: TVR 2
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/7225
+#EXTINF:-1,RO: TVR 3
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/8682
+#EXTINF:-1,RO: Discovery Turbo Xtra
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/70557
+#EXTINF:-1,RO: UTV
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/70550
+#EXTINF:-1,RO: Viasat Explore
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/41604
+#EXTINF:-1,RO: Viasat History
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/8657
+#EXTINF:-1,RO: Viasat Nature
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/8656
+#EXTINF:-1,Royal Movies SE
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/159753
+#EXTINF:-1,Royal Movies 1
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/159754
+#EXTINF:-1,Royal Movies 2
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/159755
+#EXTINF:-1,Royal Horror
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/159756
+#EXTINF:-1,Royal Action
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/159757
+#EXTINF:-1,Royal Drama
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/159758
+#EXTINF:-1,Royal Series
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/159759
+#EXTINF:-1,Royal Marvel
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/159760
+#EXTINF:-1,Royal Classic
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/159761
+#EXTINF:-1,Royal Movie Animation
+http://dmtn.tv:8080/ahmedassd69/0JARUPjLNW/159762
